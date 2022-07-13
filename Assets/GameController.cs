@@ -13,7 +13,7 @@ public class GameController : MonoBehaviour
     public const float MinY = -1;
     private const float MaxY = 2;
     private const float BlocksBefore = 3;
-    private const float BlocksAfter = 2;
+    private const float BlocksAfter = 3;
     private const float BlocksSize = 3;
 
     private void Update()
